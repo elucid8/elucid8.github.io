@@ -13,10 +13,6 @@ body {
 h1, h2 {
   text-align: center;
 }
-hr {
-  width: 60%;
-  height: 1px;
-}
 ul {
   list-style-type: square;
   padding-top: 20px;
